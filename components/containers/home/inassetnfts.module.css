@@ -1,0 +1,19 @@
+  
+  .pageLayout {
+    height: 120vh;
+    background-image: url('/nftassets/base.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
+  @media (max-width: 768px) {
+    .pageLayout {
+      height: 150vh;
+      background-image: url('/nftassets/Framebg.png'); 
+    }
+
+
+  }
+  
